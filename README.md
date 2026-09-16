@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/fabrizio-di-pace/en">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
-<a href="[https://www.instagram.com/manolobattista/"](https://github.com/FabrizioDiPace)>
+<a href="[https://www.instagram.com/manolobattista/\"](https://github.com/FabrizioDiPace)">
   <img src="https://img.shields.io/badge/github-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
 </a>
 </p>
@@ -14,13 +14,26 @@
 I'm Fabrizio, I'm a motivated and passionate Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> <b>Rome, Italy</b>, with an experience of more than 5 years.
 
 I like to experiment in all the development world, enjoing right now to use AI in all the way possible.
-Right now I'm implementing a CRM solution with my new AI infrastructure. I managed to save 94% for reuse in claude code implementing agents, skills, forks, routines and using opencode to call other Models.
+Right now I'm implementing a CRM solution with my new AI infrastructure. I managed to save 94% for reuse in claude code implementing agents, skills, forks, routines and using opencode to call other models.
 
-<p>
- ▐▛███▛█   Claude Code v2.1.273 </br>
-▝▜██████▀  Sonnet 5 · Claude Pro </br>
-  ▝▝ ▝▝    /home/fabrizio </br>
-</p>
+<table>
+  <tr>
+    <td>
+      <pre>
+▐▛███▛█
+▝▜██████▀
+  ▝▝ ▝▝
+      </pre>
+    </td>
+    <td>
+      <p>
+        Claude Code v2.1.273<br>
+        Sonnet 5 · Claude Pro<br>
+        /home/fabrizio
+      </p>
+    </td>
+  </tr>
+</table>
 
 Preview (first 2KB):
 [fabrizio] recent context, 2026-09-16 11:27pm GMT+2
