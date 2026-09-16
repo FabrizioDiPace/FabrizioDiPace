@@ -17,9 +17,9 @@ I like to experiment in all the development world, enjoing right now to use AI i
 Right now I'm implementing a CRM solution with my new AI infrastructure. I managed to save 94% for reuse in claude code implementing agents, skills, forks, routines and using opencode to call other Models.
 
 <p>
- ▐▛███▛█   Claude Code v2.1.273 </br>
-▝▜██████▀  Sonnet 5 · Claude Pro </br>
-  ▝▝ ▝▝    /home/fabrizio </br>
+Claude Code v2.1.273 </br>
+Sonnet 5 · Claude Pro </br>
+/home/fabrizio </br>
 </p>
 
 Preview (first 2KB):
