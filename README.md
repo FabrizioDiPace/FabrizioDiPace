@@ -11,22 +11,26 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude logo" width="64" height="64">
-  <br>
-  <strong>Claude Code</strong>
-</p>
-
 I'm Fabrizio, I'm a motivated and passionate Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> <b>Rome, Italy</b>, with an experience of more than 5 years.
 
-I like to experiment in all the development world, enjoying right now using AI in every way possible.
-Right now I'm implementing a CRM solution with my new AI infrastructure. I managed to save 94% for reuse in Claude Code by implementing agents, skills, forks, routines and using OpenCode to call other models.
+I like to experiment in all the development world, enjoing right now to use AI in all the way possible.
+Right now I'm implementing a CRM solution with my new AI infrastructure. I managed to save 94% for reuse in claude code implementing agents, skills, forks, routines and using opencode to call other Models.
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude logo" width="48" height="48">
-  <br>
-  <sub><b>Claude Code v2.1.273 · Sonnet 5 · Claude Pro</b></sub>
-</div>
+<p>
+ ▐▛███▛█   Claude Code v2.1.273 </br>
+▝▜██████▀  Sonnet 5 · Claude Pro </br>
+  ▝▝ ▝▝    /home/fabrizio </br>
+</p>
+
+Preview (first 2KB):
+[fabrizio] recent context, 2026-09-16 11:27pm GMT+2
+Mode: Code Development (code)
+────────────────────────────────────────────────────────────
+Context Economics
+  Loading: 50 observations (19,808 tokens to read)
+  Work investment: 342,852 tokens spent on research, building, and decisions
+  Your savings: 94% reduction from reuse
+
 
 📊 **Weekly development breakdown**
 
