@@ -21,16 +21,16 @@ Claude Code v2.1.273 </br>
 Sonnet 5 · Claude Pro </br>
 /home/fabrizio </br>
 </p>
-
-Preview (first 2KB):
-[fabrizio] recent context, 2026-09-16 11:27pm GMT+2
-Mode: Code Development (code)
+<p>
+Preview (first 2KB):</br>
+[fabrizio] recent context, 2026-09-16 11:27pm GMT+2</br>
+Mode: Code Development (code)</br>
 ────────────────────────────────────────────────────────────
-Context Economics
-  Loading: 50 observations (19,808 tokens to read)
-  Work investment: 342,852 tokens spent on research, building, and decisions
-  Your savings: 94% reduction from reuse
-
+Context Economics</br>
+  Loading: 50 observations (19,808 tokens to read)</br>
+  Work investment: 342,852 tokens spent on research, building, and decisions</br>
+  Your savings: 94% reduction from reuse</br>
+</p>
 
 📊 **Weekly development breakdown**
 
